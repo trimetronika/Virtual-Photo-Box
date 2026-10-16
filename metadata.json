@@ -1,0 +1,11 @@
+{
+  "name": "K-Photobox Together",
+  "description": "Virtual Korean-style photobooth with real-time multi-user split camera, synchronized countdown and flash, aesthetic vintage filters, cute stickers, doodle canvas, and instant print export.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
